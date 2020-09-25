@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
-<h1 align='center'>Hey 👋, This is Simarpreet Singh</h1>
+<h1 align='center'>Hey 👋, This is Manwinder Singh</h1>
 <p align = 'center'> 
 <h2 align='center'>About Me🤓</h2>
 <p align='center'>I am a tech enthusiast and psychology lover. Always love to learn about new things in the tech world and industry, the reason why I am part of many tech communities in Delhi. Apart from this, I love to read and learn
@@ -10,19 +10,19 @@ In my free time, either I am learning new skills or doing exercise, or listen to
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=simarpreetsingh-019" alt="simarpreetsingh-019" /> </p>
 
 ### 😉 About
-- 🔭 I’m currently contributing in [Contributor's Hack 20](https://hakincodes.tech/ "HackinCodes").
-- 🌱 I’m currently learning Pytorch, OpenCV, Django , Flask. 
+- 🔭 I’m currently contributing in [DSC-GTBIT](https://dsc-gtbit.netlify.app// "HackinCodes").
+- 🌱 I’m currently learning RestApi, React, Backend. 
 - 🏄‍ Actively contributing to various organisations and Open-Source Projects.
 - 🤔 I’m looking for help with Data Structures and Algorithm.
-- 💬 Ask me about anything related to ML, psychology and Management .
+- 💬 Ask me about anything related to WebDevelopment.
 </p><h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'> 
- <a href = https://github.com/simarpreetsingh-019 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
-<a href = https://www.linkedin.com/in/simarpreetsingh019 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
-<a href = https://twitter.com/simarpreet019 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a>
-<a href = https://medium.com/@simarpreetsingh.019 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg height='30' weight='30'/></a> 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=simarpreetsingh.019@gmail.com" target="_blank"><img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg height='30' weight='30'/></a>
-<a href = https://stackoverflow.com/users/11798523/simarpreetsingh-019 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg height='30' weight='30'/></a>  
+ <a href = https://github.com/manwindersingh1712 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
+<a href = https://www.linkedin.com/in/manwinder-singh-615057185/ target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
+<a href = https://twitter.com/Manwind72534624 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a>
+<!-- <a href =  target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg height='30' weight='30'/></a>  -->
+<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=manwindersingh1712@gmail.com" target="_blank"><img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg height='30' weight='30'/></a>
+<a href = https://stackoverflow.com/users/13542349/manwinder-singh target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg height='30' weight='30'/></a>  
 
  &emsp;
  
