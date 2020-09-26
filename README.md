@@ -38,6 +38,9 @@ In my free time, either I am learning new skills or doing exercise, or listen to
 </p>
 
  &emsp;
+ 
+ ![Manwinder Singh's github stats](https://github-readme-stats.vercel.app/api?username=manwindersingh1712&show_icons=true&theme=radical)
+
 
 <img align="right" height="250" width="300" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
