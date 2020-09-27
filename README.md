@@ -7,7 +7,7 @@
 <p align='center'>I am a tech enthusiast and psychology lover. Always love to learn about new things in the tech world and industry, the reason why I am part of many tech communities in Delhi. Apart from this, I love to read and learn
 about psychology and related stuff, this helps me understand human and its nature, this helps me in programs related to marketing and promotions. I am trilingual, speaking English, Hindi, Punjabi.
 In my free time, either I am learning new skills or doing exercise, or listen to people around me about their problems because spreading happiness is my mission apart from other things.
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=simarpreetsingh-019" alt="simarpreetsingh-019" /> </p>
+<!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=simarpreetsingh-019" alt="simarpreetsingh-019" /> </p> -->
 
 ### 😉 About
 - 🔭 I’m currently contributing in [DSC-GTBIT](https://dsc-gtbit.netlify.app// "HackinCodes").
