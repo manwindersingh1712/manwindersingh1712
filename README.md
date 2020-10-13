@@ -11,7 +11,7 @@ In my free time, either I am learning new skills or doing exercise, or listen to
 
 ### 😉 About
 - 🔭 I’m currently contributing in [DSC-GTBIT](https://dsc-gtbit.netlify.app// "HackinCodes").
-- 🌱 I’m currently learning RestApi, React, Backend. 
+- 🌱 I’m currently learning websockets and practicing ds and algo. 
 - 🏄‍ Actively contributing to various organisations and Open-Source Projects.
 - 🤔 I’m looking for help with Data Structures and Algorithm.
 - 💬 Ask me about anything related to WebDevelopment.
