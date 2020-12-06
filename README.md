@@ -10,7 +10,7 @@ In my free time, either I am learning new skills or doing exercise, or listen to
 <!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=simarpreetsingh-019" alt="simarpreetsingh-019" /> </p> -->
 
 ### 😉 About
-- 🍎 I’m currently working as an Intern at in [IOSD](https://iosdware.com/index.html ).
+- 🍎 I’m currently working as an Intern at in [IOSD](https://iosdware.com/ ).
 - 🔭 I’m currently contributing in [DSC-GTBIT](https://dsc-gtbit.netlify.app// "HackinCodes").
 - 🌱 I’m currently learning websockets and practicing ds and algo. 
 - 🏄‍ Actively contributing to various organisations and Open-Source Projects.
