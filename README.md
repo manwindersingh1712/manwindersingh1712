@@ -28,12 +28,12 @@ In my free time, either I am learning new skills or doing exercise, or listen to
  &emsp;
  
  <p align="center">
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficon%2F54087%2Fnodejs&psig=AOvVaw3rP7teFmU_i4LMJfAg-oGL&ust=1611069118082000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjBrafipe4CFQAAAAAdAAAAABAQ" alt="node" width="40" height="40"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+ <img src="https://img.icons8.com/color/452/nodejs.png" alt="node" width="40" height="40"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="40" height="40"/> 
+ <img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" alt="html5" width="40" height="40"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+ <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/135056738/original/f4a1f882db100ea22db39e053f0f3a942654378e/create-you-a-rest-api.png" alt="rest_api" width="40" height="40"/>
 </p>
 
  &emsp;
