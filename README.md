@@ -30,10 +30,10 @@ In my free time, either I am learning new skills or doing exercise, or listen to
  <p align="center">
  <img src="https://img.icons8.com/color/452/nodejs.png" alt="node" width="40" height="40"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="40" height="40"/> 
- <img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" alt="html5" width="40" height="40"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
- <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/135056738/original/f4a1f882db100ea22db39e053f0f3a942654378e/create-you-a-rest-api.png" alt="rest_api" width="40" height="40"/>
+ <img src="https://img.icons8.com/color/452/mongodb.png" alt="mongodb" width="40" height="40"/>
+<img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" alt="html5" width="40" height="40"/>
+ <img src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png" alt="css" width="40" height="40"/>
+ <img src="https://picosat.systems/wp-content/uploads/2016/03/js-logo.png" alt="javascript" width="40" height="40"/>
 </p>
 
  &emsp;
