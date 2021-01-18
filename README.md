@@ -28,7 +28,7 @@ In my free time, either I am learning new skills or doing exercise, or listen to
  &emsp;
  
  <p align="center">
- <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficon%2F54087%2Fnodejs&psig=AOvVaw3rP7teFmU_i4LMJfAg-oGL&ust=1611069118082000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjBrafipe4CFQAAAAAdAAAAABAQ" alt="node" width="40" height="40"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
