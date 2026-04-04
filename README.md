@@ -1,4 +1,6 @@
 ## I BUILD STUFF....
-[INFRA PILOT](https://github.com/manwindersingh1712/infra_pilot/)
-[Portfolio](https://www.manwindersingh.com/)
+
+1. [INFRA PILOT](https://github.com/manwindersingh1712/infra_pilot/)
+
+2. [Portfolio](https://www.manwindersingh.com/)
 
