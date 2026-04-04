@@ -2,5 +2,7 @@
 
 🚀 [INFRA PILOT](https://github.com/manwindersingh1712/infra_pilot/)
 
-💼 [Portfolio](https://www.manwindersingh.com/)
+💼 [Portfolio @2025](https://www.manwindersingh.com/)
+
+⚙️ [Operating System as Portfolio @2021](https://manwindersingh1712.github.io/portfolio.os/)
 
